@@ -32,8 +32,8 @@ A simple **Tic Tac Toe** desktop game built using **C#** and **Windows Forms**. 
 
 ## 🖼 Screenshots
 
-![Main Menu](images/screenshot1.png)
-![Gameplay](images/screenshot2.png)
+![Main Menu](screenshot1.png)
+![Gameplay](screenshot2.png)
 
 ## 🔧 How to Contribute
 
