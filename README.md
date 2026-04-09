@@ -47,6 +47,4 @@ A simple **Tic Tac Toe** desktop game built using **C#** and **Windows Forms**. 
 
 This project is open-source and free to use.
 
----
-
-**Enjoy playing Tic Tac Toe!**
+**Enjoy playing Tic Tac Toe!*
